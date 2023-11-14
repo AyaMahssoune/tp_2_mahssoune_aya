@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Mukta", sans-serif;
+  background-color: rgb(235, 232, 240);
+}
+.container {
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 50px auto;
+  max-width: 900px;
+  padding: 40px;
+  text-align: center;
+}
+button {
+  background-color: #6f4caf;
+  color: #fff;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #5045a0;
+}
+label {
+  display: block;
+  margin-bottom: 8px;
+}
